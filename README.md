@@ -20,7 +20,7 @@ To get started with this project, follow the steps below:
 
 4. Next, navigate to the server folder and start the server by running the following command:
 
-`npm run start:server`
+`npm start`
 
 ## Features
 
